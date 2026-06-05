@@ -1,11 +1,8 @@
 # DSA Question 2: Find the Maximum Element
-#
+
 # Given a non-empty list of integers, find and return its largest element.
 # Solve the problem without using Python's built-in max() function.
-#
-# Example:
-# numbers = [3, 8, 2, 5]
-# Answer: 8
+
 
 
 def find_maximum(numbers: list[int]) -> int:
