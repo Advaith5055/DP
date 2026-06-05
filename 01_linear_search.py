@@ -1,12 +1,7 @@
 # DSA Question 1: Linear Search
-#
+
 # Given a list of integers and a target value, return the index of the
 # target. Return -1 when the target does not exist in the list.
-#
-# Example:
-# numbers = [4, 2, 7, 1]
-# target = 7
-# Answer: 2
 
 
 def linear_search(numbers: list[int], target: int) -> int:
